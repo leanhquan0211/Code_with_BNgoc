@@ -19,5 +19,5 @@ int main() {
 		}
 		t = 0;
 	}
-	cout << -1;
+	cout << "dell co. Cut";
 }
