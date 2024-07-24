@@ -1,0 +1,6 @@
+Mỗi folder tương ứng với mỗi bài gồm 4 file:
++ tenbai.txt : file này chứa link bài tập
++ AQcode.cpp : file này t code, file này t up lên branch AQuan
++ MHcode.cpp : file này m code. file này m up lên branch Mhieu
++ code.cpp : file này code chung, code theo format của bài theo link, file này up lên main
+=======================================================================
